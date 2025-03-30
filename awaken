@@ -16,7 +16,7 @@ var roomstuff = {"rooms":{
 
 "teaparty":{"rName":"Tea Party","backgroundImage":"https://soi-awaking.hyperchat.com/teapartyback.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #a3f0d0;}</style><center><img class='topImage' src='https://soi-awaking.hyperchat.com/teapartytop.jpg'><br>Tea Party</center>","roombottom":""},
 
-"herbal":{"rName":"Herbal Room","backgroundImage":"https://soi-awaking.hyperchat.com/herbalback.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #a3f0d0;}</style><center><img class='topImage' src='https://soi-awaking.hyperchat.com/herbtop.jpg'><br>Herbal Room</center>","roombottom":""},
+"herbal":{"rName":"Herbal Room","backgroundImage":"https://soi-awaking.hyperchat.com/herbal.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #a3f0d0;}</style><center><img class='topImage' src='https://soi-awaking.hyperchat.com/herbtop.jpg'><br>Herbal Room</center>","roombottom":""},
 
 "learning":{"rName":"Learning Room","backgroundImage":"https://soi-awaking.hyperchat.com/learningroomback.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #a3f0d0;}</style><center><img class='topImage' src='https://soi-awaking.hyperchat.com/learningroomtop.jpg'><br>The Learning Room</center>","roombottom":""},
 
