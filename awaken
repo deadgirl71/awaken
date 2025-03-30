@@ -2,7 +2,7 @@ var multiConfig = {"THISROOM":"awaking","locationColor":"white","locationBackgro
 
 var roomstuff = {"rooms":{
 
-"home":{"rName":"Home","backgroundImage":"https://soi-awaking.hyperchat.com/awitchshomebackground.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #c2f1ff;}</style><center><img class='topImage' src='https://soi-awaking.hyperchat.com/homeIcon.jpg'><br>Our Wiccan Home</center>","roombottom":""},
+"home":{"rName":"Home","backgroundImage":"https://soi-awaking.hyperchat.com/awitchshomebackground.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #c2f1ff;}</style><center><img class='topImage' src='https://soi-awaking.hyperchat.com/awitchshometop.jpg'><br>Our Wiccan Home</center>","roombottom":""},
 
 "livingroom":{"rName":"Livingroom","backgroundImage":"https://soi-awaking.hyperchat.com/livingroombackground.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #c8b4b0;}</style><center><img class='topImage' src='https://soi-awaking.hyperchat.com/livingroomIcon.jpg'><br>Welcome to Our Livingroom</center>","roombottom":""},
 
@@ -14,7 +14,7 @@ var roomstuff = {"rooms":{
 
 "crystalroom":{"rName":"Crystal Room","backgroundImage":"https://soi-awaking.hyperchat.com/crystalroomback.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: ##b6b6b6;}</style><center><img class='topImage' src='https://soi-awaking.hyperchat.com/crystalroomIcon.jpg'><BR>The Crystal Room</center>","roombottom":""},
 
-"teaparty":{"rName":"Tea Party","backgroundImage":"https://soi-awaking.hyperchat.com/herbalback.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #a3f0d0;}</style><center><img class='topImage' src='https://soi-awaking.hyperchat.com/teapartyIcon.jpg'><br>Tea Party</center>","roombottom":""},
+"teaparty":{"rName":"Tea Party","backgroundImage":"https://soi-awaking.hyperchat.com/teapartyback.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #a3f0d0;}</style><center><img class='topImage' src='https://soi-awaking.hyperchat.com/teapartyIcon.jpg'><br>Tea Party</center>","roombottom":""},
 
 "herbal":{"rName":"Herbal Room","backgroundImage":"https://soi-awaking.hyperchat.com/1TheDivinersChamberbackground.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #a3f0d0;}</style><center><img class='topImage' src='https://soi-awaking.hyperchat.com/herbalIcon.jpg'><br>Herbal Room</center>","roombottom":""},
 
