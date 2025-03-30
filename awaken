@@ -4,20 +4,20 @@ var roomstuff = {"rooms":{
 
 "home":{"rName":"Home","backgroundImage":"https://soi-awaking.hyperchat.com/awitchshomebackground.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #c2f1ff;}</style><center><img class='topImage' src='https://soi-awaking.hyperchat.com/awitchshometop.jpg'><br>Our Wiccan Home</center>","roombottom":""},
 
-"livingroom":{"rName":"Livingroom","backgroundImage":"https://soi-awaking.hyperchat.com/livingroombackground.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #c8b4b0;}</style><center><img class='topImage' src='https://soi-awaking.hyperchat.com/livingroomIcon.jpg'><br>Welcome to Our Livingroom</center>","roombottom":""},
+"livingroom":{"rName":"Livingroom","backgroundImage":"https://soi-awaking.hyperchat.com/livingroombackground.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #c8b4b0;}</style><center><img class='topImage' src='https://soi-awaking.hyperchat.com/livingroomtop.jpg'><br>Welcome to Our Livingroom</center>","roombottom":""},
 
-"bedroom":{"rName":"Bedroom","backgroundImage":"https://soi-awaking.hyperchat.com/bedroomback.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src='https://soi-awaking.hyperchat.com/bedroomIcon.jpg'><BR>Our Bedroom</center>","roombottom":""},
+"bedroom":{"rName":"Bedroom","backgroundImage":"https://soi-awaking.hyperchat.com/bedroomback.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src='https://soi-awaking.hyperchat.com/bedroomtop.jpg'><BR>Our Bedroom</center>","roombottom":""},
 
-"bathroom":{"rName":"Bathroom","backgroundImage":"https://soi-awaking.hyperchat.com/awakingbathback.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src='https://soi-awaking.hyperchat.com/bathroomIcon.jpg'><BR>Our Bathroom</center>","roombottom":""},
+"bathroom":{"rName":"Bathroom","backgroundImage":"https://soi-awaking.hyperchat.com/awakingbathback.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src='https://soi-awaking.hyperchat.com/awakingbathtop.jpg'><BR>Our Bathroom</center>","roombottom":""},
 
-"balcony":{"rName":"Balcony","backgroundImage":"https://soi-awaking.hyperchat.com/balconyback.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src='https://soi-awaking.hyperchat.com/balconyIcon.jpg'><br>The Balcony</center>","roombottom":""},
+"balcony":{"rName":"Balcony","backgroundImage":"https://soi-awaking.hyperchat.com/balconyback.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src='https://soi-awaking.hyperchat.com/balconytop.jpg'><br>The Balcony</center>","roombottom":""},
 
-"crystalroom":{"rName":"Crystal Room","backgroundImage":"https://soi-awaking.hyperchat.com/crystalroomback.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: ##b6b6b6;}</style><center><img class='topImage' src='https://soi-awaking.hyperchat.com/crystalroomIcon.jpg'><BR>The Crystal Room</center>","roombottom":""},
+"crystalroom":{"rName":"Crystal Room","backgroundImage":"https://soi-awaking.hyperchat.com/crystalroomback.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: ##b6b6b6;}</style><center><img class='topImage' src='https://soi-awaking.hyperchat.com/crystalroomtop.jpg'><BR>The Crystal Room</center>","roombottom":""},
 
-"teaparty":{"rName":"Tea Party","backgroundImage":"https://soi-awaking.hyperchat.com/teapartyback.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #a3f0d0;}</style><center><img class='topImage' src='https://soi-awaking.hyperchat.com/teapartyIcon.jpg'><br>Tea Party</center>","roombottom":""},
+"teaparty":{"rName":"Tea Party","backgroundImage":"https://soi-awaking.hyperchat.com/teapartyback.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #a3f0d0;}</style><center><img class='topImage' src='https://soi-awaking.hyperchat.com/teapartytop.jpg'><br>Tea Party</center>","roombottom":""},
 
-"herbal":{"rName":"Herbal Room","backgroundImage":"https://soi-awaking.hyperchat.com/1TheDivinersChamberbackground.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #a3f0d0;}</style><center><img class='topImage' src='https://soi-awaking.hyperchat.com/herbalIcon.jpg'><br>Herbal Room</center>","roombottom":""},
+"herbal":{"rName":"Herbal Room","backgroundImage":"https://soi-awaking.hyperchat.com/1TheDivinersChamberbackground.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #a3f0d0;}</style><center><img class='topImage' src='https://soi-awaking.hyperchat.com/herbtop.jpg'><br>Herbal Room</center>","roombottom":""},
 
-"learning":{"rName":"Learning Room","backgroundImage":"https://soi-awaking.hyperchat.com/learningroomback.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #a3f0d0;}</style><center><img class='topImage' src='https://soi-awaking.hyperchat.com/learningIcon.jpg'><br>The Learning Room</center>","roombottom":""},
+"learning":{"rName":"Learning Room","backgroundImage":"https://soi-awaking.hyperchat.com/learningroomback.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #a3f0d0;}</style><center><img class='topImage' src='https://soi-awaking.hyperchat.com/learningroomtop.jpg'><br>The Learning Room</center>","roombottom":""},
 
 }};
